@@ -1,0 +1,6 @@
+pandas
+openpyxl
+openai
+requests
+bs4
+telebot
